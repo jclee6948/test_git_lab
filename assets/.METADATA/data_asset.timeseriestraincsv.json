@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "time_series_train.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2023-09-22T06:26:30Z",
+    "created": 1695363990097,
+    "asset_id": "data_asset.timeseriestraincsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "name": "time_series_train.csv",
+      "asset_type": "data_asset",
+      "mime": "text/csv",
+      "object_key": "data_asset/time_series_train.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2023-09-22T06:26:30Z",
+      "id": "9430c6be-b067-4bd4-95f8-15b9985c61b0",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
